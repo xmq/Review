@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="welltest_array_string">
+        <item>你可知道你是我的最爱</item>
+        <item>真的吗，你这是在挑逗我</item>
+        <item>当然是真的，我从来都是这样诚实</item>
+        <item>那你知道我对你的感觉吗？</item>
+        <item>不知道那又怎么样呢？</item>
+        <item>不知道你可以改变一下</item>
+        <item>改变个球，滚蛋</item>
+        <item>请注意文明用语</item>
+        <item>滚犊子，老子就是野蛮人</item>
+        <item>好吧，你赢了！</item>
+    </string-array>
+
+    <string-array name="title_one_string_array">
+        <item>头条</item>
+        <item>宜昌</item>
+        <item>科技</item>
+        <item>财经</item>
+        <item>互联网</item>
+        <item>读书</item>
+        <item>健康</item>
+        <item>体育</item>
+        <item>社会</item>
+        <item>历史</item>
+    </string-array>
+
+    <string-array name="title_two_string_array">
+        <item>原创</item>
+        <item>影视</item>
+        <item>彩票</item>
+        <item>时尚</item>
+        <item>云课堂</item>
+        <item>艺术</item>
+        <item>博客</item>
+        <item>跟帖</item>
+        <item>论坛</item>
+        <item>热点</item>
+    </string-array>
+</resources>
